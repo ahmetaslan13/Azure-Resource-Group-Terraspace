@@ -1,7 +1,5 @@
 **Azure Resource Group Terraspace**
 
-![Terraspace Logo](https://terraspace.cloud/img/logo-color.png)
-
 This repository contains infrastructure code written using [Terraspace](https://terraspace.cloud/) for creating and managing Azure Resource Groups. Terraspace is a framework for building and managing cloud infrastructure with Terraform. It provides an organized and maintainable way to write infrastructure-as-code (IAC) using the power of Terraform and Ruby.
 
 ## Table of Contents
